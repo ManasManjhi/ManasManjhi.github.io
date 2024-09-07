@@ -1,3 +1,3 @@
 document.getElementById('myButton').addEventListener('click', () => {
-    alert('Button clicked!');
+    alert('Nothing happened!');
 });
