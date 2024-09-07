@@ -26,6 +26,6 @@ footer {
     width: 100%;
 
 .my-button {
-    display: none; /* Hides the button */
+    visibility: hidden; /* Hides the button but keeps its space */
 }
 }
